@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a39ddcd502a03ab5b0f78e73db57b075\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fdf8939af2cc076d91048c7c3ae61b14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c249a38f3c639ee8c0cfa74edaf758\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\37e3e208f3c786d6386fb898f3e6478c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\256a9d8773b8e3d08fecb4beb721cdde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\06f61d96c4d4287e316533d4e65500ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a4b28dbc9f03775f9fd44255c4b47f4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9185d36fce49032e3865b345bb203a44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\84ce780303b24024bf0e9a5d3dcfe93d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\28b3edeca9d5729957953c73a3233acc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\dd48b04cda0d9d0b67d9026d11789984\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ad0af3b07d334bbba499e2a2253eba1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f4e44dea4439fc9854254fe8b19ecc55\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6c5e521f6841cc7412122e74e6f84601\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\334aa06d5c1ecee6169af63df2533660\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7f95c48f2d0caa2e09faae69f42deed8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4a39c2f52591ec0e2866c21c23ea73c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:4:5-57
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:3:5-63
+uses-feature#android.hardware.camera
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:5:5-6:35
+	android:required
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:6:9-32
+	android:name
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:5:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.location.gps
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:10:19-63
+application
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:12:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c249a38f3c639ee8c0cfa74edaf758\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c249a38f3c639ee8c0cfa74edaf758\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.digitalmedia_design.fairventurescamera.MainActivity
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:21:13-49
+	android:configChanges
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:20:13-48
+	android:name
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:25:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:29:9-38:20
+	android:grantUriPermissions
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:34:13-47
+	android:authorities
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:31:13-90
+	android:exported
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:32:13-37
+	android:installLocation
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:33:13-53
+	android:name
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:30:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:35:13-37:64
+	android:resource
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:37:17-51
+	android:name
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml:36:17-67
+uses-sdk
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a39ddcd502a03ab5b0f78e73db57b075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a39ddcd502a03ab5b0f78e73db57b075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fdf8939af2cc076d91048c7c3ae61b14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fdf8939af2cc076d91048c7c3ae61b14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c249a38f3c639ee8c0cfa74edaf758\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c249a38f3c639ee8c0cfa74edaf758\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\37e3e208f3c786d6386fb898f3e6478c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\37e3e208f3c786d6386fb898f3e6478c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\256a9d8773b8e3d08fecb4beb721cdde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\256a9d8773b8e3d08fecb4beb721cdde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\06f61d96c4d4287e316533d4e65500ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\06f61d96c4d4287e316533d4e65500ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a4b28dbc9f03775f9fd44255c4b47f4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a4b28dbc9f03775f9fd44255c4b47f4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9185d36fce49032e3865b345bb203a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9185d36fce49032e3865b345bb203a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\84ce780303b24024bf0e9a5d3dcfe93d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\84ce780303b24024bf0e9a5d3dcfe93d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\28b3edeca9d5729957953c73a3233acc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\28b3edeca9d5729957953c73a3233acc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\dd48b04cda0d9d0b67d9026d11789984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\dd48b04cda0d9d0b67d9026d11789984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ad0af3b07d334bbba499e2a2253eba1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ad0af3b07d334bbba499e2a2253eba1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f4e44dea4439fc9854254fe8b19ecc55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f4e44dea4439fc9854254fe8b19ecc55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6c5e521f6841cc7412122e74e6f84601\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6c5e521f6841cc7412122e74e6f84601\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\334aa06d5c1ecee6169af63df2533660\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\334aa06d5c1ecee6169af63df2533660\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7f95c48f2d0caa2e09faae69f42deed8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7f95c48f2d0caa2e09faae69f42deed8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4a39c2f52591ec0e2866c21c23ea73c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4a39c2f52591ec0e2866c21c23ea73c\AndroidManifest.xml:20:5-44
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+		ADDED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FairventuresAppCamera\app\src\main\AndroidManifest.xml
