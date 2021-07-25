@@ -1,4 +1,4 @@
-package com.digitalmedia_design.fairventurescamera;
+package com.fairventurescamera;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.digitalmedia_design.fairventurescamera", appContext.getPackageName());
+        assertEquals("com.fairventurescamera", appContext.getPackageName());
     }
 }

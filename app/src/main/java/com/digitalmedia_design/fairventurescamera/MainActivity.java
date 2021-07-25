@@ -1,4 +1,4 @@
-package com.digitalmedia_design.fairventurescamera;
+package com.fairventurescamera;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -492,7 +492,7 @@ public class MainActivity extends AppCompatActivity {
             // Continue only if the File was successfully created
             if (photoFile != null) {
                 Uri photoURI = FileProvider.getUriForFile(this,
-                        "com.digitalmedia_design.fairventurescamera.fileprovider",
+                        "com.fairventurescamera.fileprovider",
                         photoFile);
                /* Uri photoURI;
                 String state = Environment.getExternalStorageState();
@@ -502,7 +502,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else
                     photoURI = FileProvider.getUriForFile(this,
-                            "com.digitalmedia_design.fairventurescamera.fileprovider",
+                            "com.fairventurescamera.fileprovider",
                             photoFile);*/
 
                 takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT, photoURI);

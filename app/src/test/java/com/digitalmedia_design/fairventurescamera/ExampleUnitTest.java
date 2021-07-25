@@ -1,4 +1,4 @@
-package com.digitalmedia_design.fairventurescamera;
+package com.fairventurescamera;
 
 import org.junit.Test;
 
